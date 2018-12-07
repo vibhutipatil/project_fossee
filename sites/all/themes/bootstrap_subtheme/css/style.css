@@ -1,0 +1,48 @@
+/*navigation col span */
+.col-sm-3 {
+    width: 17%;
+}
+.navbar-nav 
+{
+	    float: right;
+		    margin: 10px;
+}
+.navbar-brand{
+font-size: 50px;
+    line-height: 30px;
+}
+/*footer */
+.footer
+{
+	background-color: #222;
+	color: #fff ;
+	text-align: center-left;
+	margin-top: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-top: 1px solid #E5E5E5;
+}
+
+address {
+    display: block;
+    margin-bottom: 20px;
+    font-style: normal;
+    margin-left: 30px;
+    line-height: 1em;
+}
+body
+{
+	font-size: 17px;
+}
+
+ /*news block */
+ .contextual-links-region {
+	 
+	margin-top: 10px;
+	 margin-bottom: 20px;
+
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+	padding-left : 10px;
+
+ }
